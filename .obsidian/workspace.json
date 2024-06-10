@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "44720184d19ddd04",
+    "type": "split",
+    "children": [
+      {
+        "id": "52c62ca3e032c7fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6cab8489c961ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supervised access/Roles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9226790226093b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyoloConnect/CyoloConnect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a356b775f2bed3fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d97129db8f047f77",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7426b131e38a43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa0d63056373f852",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a208b0ba1a3cd66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8515b8ecbc68a9a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1b289cbee2f85ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "de0b58a4cdd93c81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234d92408ffbb7ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "009e8fff4eb94694",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eb80a07965689b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8eebdc12fa515bf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a356b775f2bed3fc",
+  "lastOpenFiles": [
+    "Cyolo PRO Privileged-Remote-Operations.md",
+    "CyoloConnect/CyoloConnect.md",
+    "CyoloConnect/Login Shell-Linux.md",
+    "Untitled",
+    "CyoloConnect",
+    "WebApps/Web Apps.md",
+    "res/Pasted image 20240610133723.png",
+    "res/Digital Experience Monitoring.md",
+    "WebApps",
+    "res/Pasted image 20240610133439.png",
+    "res/Pasted image 20240610133319.png",
+    "Supervised access/Roles.md",
+    "Digital Experience Monitoring",
+    "Supervised access/Supervised Access.md",
+    "Supervised access/Roles.canvas",
+    "Supervised access",
+    "res/Pasted image 20240610131843.png",
+    "res",
+    "res/Pasted image 20240610125539.png"
+  ]
+}
